@@ -1,1 +1,1 @@
-{"version":"1.6.2", "notes":"Stuff asa asasas as as as"}
+{"version":"2.6.2", "notes":"Stuff asa asasas as as as"}
